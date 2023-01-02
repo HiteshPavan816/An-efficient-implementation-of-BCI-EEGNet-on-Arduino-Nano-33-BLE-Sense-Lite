@@ -99,7 +99,7 @@
         ▪ GREEN → Audio Right
         ▪ BLUE → Visual Left
         ▪ WHITE → Visual Right
-        • To check all the samples of test data, click on Run all data.
+      o To check all the samples of test data, click on Run all data.
       o You can observe the Total number of samples, Accuracy, Number of correctly classified samples, Current sample 
         number, its predicted and actual labels (along with the bar chart representing the predicted labels) on the GUI.
       o You can observe the changes in the parameters mentioned above while giving samples one after the other.
